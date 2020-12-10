@@ -1,4 +1,4 @@
-// format for images
+/*Format for images*/
 img {
   display: block;
   margin-left: auto;
@@ -6,7 +6,7 @@ img {
   width: 50%;
 }
 
-// format for video
+/*Format for video*/
 video {
   display: block;
   margin-left: auto;
@@ -22,7 +22,7 @@ video {
   color: #000000;
 }
 
-// Format for home page
+/*Format for home page*/
 .home-h3 {
   position: relative;
   font-family: 'Times New Roman', sans-serif;
@@ -44,7 +44,7 @@ video {
   background-image: linear-gradient(to right, #F9E1E0, #FEADB9);
 }
 
-// Format for resume page
+/*Format for resume page*/
 #res-h1 {
   position: relative;
   font-family: 'Times New Roman', sans-serif;
@@ -74,7 +74,7 @@ video {
   background-image: linear-gradient(to right, #FEADB9, #BC85A3);
 }
 
-// Format for collection page
+/*Format for collection page*/
 #collect-h1 {
   position: relative;
   font-family: 'Times New Roman', sans-serif;
@@ -88,7 +88,7 @@ video {
   background-image: linear-gradient(to right, #BC85A3, #9799BA);
 }
 
-// Format for navigation page
+/*Format for navigation pag*/
 #navbar {
   background-image: linear-gradient(to left, rgb(0, 0, 0), rgb(0, 0, 0));;
   overflow: hidden;
@@ -125,7 +125,7 @@ video {
   color: #000000;
 }
 
-// Format for lists
+/*Format for lists*/
 .m {
   list-style-type: none;
 }
